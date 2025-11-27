@@ -546,16 +546,16 @@ Players and teams are required to fulfill all scheduled media obligations, inclu
 
 The distribution of prize pool was determined as follows:
 
-* 12 teams  
+* 12 teams (min) 
   * 1st place \- 3500$  
   * 2nd place \- 1500$   
-  * 3rd/4th place \- 500$
+  * 3rd place \- 1000$
 
 
-* 24 teams  
+* 24 teams (max)  
   * 1st place \- 6000$  
-  * 2nd place \- 3000$  
-  * 3rd/4th place \- 1000$
+  * 2nd place \- 4000$  
+  * 3rd place \- 1000$
 
 ## **5.2. Prize payout** {#5.2.-prize-payout}
 
