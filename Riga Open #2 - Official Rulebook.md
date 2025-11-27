@@ -211,7 +211,7 @@ The prize pool is crowdfunded by team entries. It scales with the number of team
 - 12 teams  
   - 1st place \- 3500$  
   - 2nd place \- 2000$   
-  - 3rd \- 500$
+  - 3rd \- 1000$
 
 
 - 24 teams  
