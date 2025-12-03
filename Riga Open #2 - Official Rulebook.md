@@ -189,7 +189,7 @@ Tier 2 VRS-ranked event.
 ## **1.3. Dates** {#1.3.-dates}
 
 * If 24 teams: January 4th \- January 6th, 2025 (Three days, Sunday, Monday & Tuesday)  
-* If 12 teams \- January 4th \- January 5th, 2025 (Two days, Sunday & Tuesday) 
+* If 12 teams \- January 4th \- January 5th, 2025 (Two days, Sunday & Monday) 
 
 ## **1.4. Location** {#1.4.-location}
 
