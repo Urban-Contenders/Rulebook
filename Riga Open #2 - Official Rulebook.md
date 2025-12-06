@@ -548,7 +548,7 @@ The distribution of prize pool was determined as follows:
 
 * 12 teams (min) 
   * 1st place \- 3500$  
-  * 2nd place \- 1500$   
+  * 2nd place \- 2000$   
   * 3rd place \- 1000$
 
 
@@ -556,6 +556,7 @@ The distribution of prize pool was determined as follows:
   * 1st place \- 6000$  
   * 2nd place \- 4000$  
   * 3rd place \- 1000$
+
 
 ## **5.2. Prize payout** {#5.2.-prize-payout}
 
