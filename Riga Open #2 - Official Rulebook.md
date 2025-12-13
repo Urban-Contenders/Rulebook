@@ -520,16 +520,21 @@ This does not confirm with 100% certainty that the event is "Ranked" and relies 
 
 “Urban Riga Open \#2 is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike tournaments from “Urban Contenders side”
 
-## **4.17. Playoffs seeding** {#4.17.-playoffs-seeding}
+## **4.17. Seeding** {#4.17.-seeding}
 
 See 4.5 and 4.6. (For scenario, if there are 2 groups in group stage) Group A seeds will have higher seed than Group B seeds, and Group B seeds will be seeded higher than Group C seeds and Group C seeds will be seeded higher than Group D seeds.
 
-### 4.17.1. 6 team playoff (12 teams participants in total) {#4.17.1.-6-team-playoff-(12-teams-participants-in-total)}
+### 4.17.1 Group Stage seeding {#4.17.3.-12-group-stage-seeding}
+
+* Group A: 1, 4, 5, 8, 9, 12
+* Group B: 2, 3, 6, 7, 10, 11
+
+### 4.17.2. 6 team playoff (12 teams participants in total) {#4.17.2.-6-team-playoff-(12-teams-participants-in-total)}
 
 * A1 plays against B2/A3 winner in semifinal 1  
 * B1 plays against A2/B3 winner in semifinal 2
 
-  ### 4.17.2. 12 team playoff (24 teams participants in total) {#4.17.2.-12-team-playoff-(24-teams-participants-in-total)}
+  ### 4.17.3. 12 team playoff (24 teams participants in total) {#4.17.3.-12-team-playoff-(24-teams-participants-in-total)}
 
 * A1 plays against winner of Round of 12 Match \#1  
 * ⁠B1 plays against winner of Round of 12 Match \#3  
