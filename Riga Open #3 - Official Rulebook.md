@@ -1,6 +1,6 @@
-
-
-![][image1]
+<p align="center">
+  <img src="assets/ROlogo.png" width="256">
+</p>
 
 **Official Rulebook** 
 
@@ -18,7 +18,7 @@ Remember, the tournament administration has the final say on all matters. Someti
 
 “Urban Riga Open \#3”  is a Tier 2 Valve Regional Standings (VRS) Ranked Counter-Strike 2 tournament with an open LAN format. This event provides a grassroots competitive experience in the heart of Riga, welcoming any team ready to compete. 
 
-As a VRS-ranked event, Urban Riga Open \#2 adheres to Valve’s rules for ranked tournaments, ensuring a fair structure for invites and qualifiers. The Valve Regional Standings (VRS) is the official ranking system used by Valve to gauge team performance and determine invitations for CS2 events. This rulebook outlines all regulations, format details, and expectations for teams participating in Urban Riga Open \#2.
+As a VRS-ranked event, Urban Riga Open \#3 adheres to Valve’s rules for ranked tournaments, ensuring a fair structure for invites and qualifiers. The Valve Regional Standings (VRS) is the official ranking system used by Valve to gauge team performance and determine invitations for CS2 events. This rulebook outlines all regulations, format details, and expectations for teams participating in Urban Riga Open \#3.
 
 Finally, our goal is to create an engaging and exciting event for participants, spectators, and partners.
 
@@ -180,7 +180,7 @@ Riga Open staff.
 
 ## **1.1. Event name** {#1.1.-event-name}
 
-Urban Riga Open \#2
+Urban Riga Open \#3
 
 ## **1.2. Tier**  {#1.2.-tier}
 
@@ -229,11 +229,11 @@ Teams register via Google Form. Once thats filled, organizer will contact the te
 
 ## **1.10. VRS Seeding** {#1.10.-vrs-seeding}
 
-In line with Valve’s guidelines for Tier 2 events, Urban Riga Open \#2 will use VRS rankings to seed teams into Groups. 
+In line with Valve’s guidelines for Tier 2 events, Urban Riga Open \#3 will use VRS rankings to seed teams into Groups. 
 
 Seeding will be based on the official Global VRS ranking released on Monday, 1st of December 2025\.
 
-The seeding for the “Urban Riga Open \#2” Main Tournament will be determined using a hierarchical ranking system to ensure a competitive and fair placement of teams. The seeding methodology is as follows (24-team event example):
+The seeding for the “Urban Riga Open \#3” Main Tournament will be determined using a hierarchical ranking system to ensure a competitive and fair placement of teams. The seeding methodology is as follows (24-team event example):
 
 1. **Primary Seeding:** Global VRS ranking (as of December 1st, 2025\)
 
@@ -518,7 +518,7 @@ This tournament complies with Valve's Tournament Operator Requirements in order 
 
 This does not confirm with 100% certainty that the event is "Ranked" and relies on data coverage by HLTV. “Urban Riga Open \#3” will apply for HLTV coverage under their specific guidelines no more than 15 days prior to the start of the "Main Event" stage.
 
-“Urban Riga Open \#2 is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike tournaments from “Urban Contenders side”
+“Urban Riga Open \#3 is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike tournaments from “Urban Contenders side”
 
 ## **4.17. Seeding** {#4.17.-seeding}
 
