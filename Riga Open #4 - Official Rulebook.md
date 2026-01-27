@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="256">
+  <img src="assets/ROlogo.png" width="256">
 </p>
 
 **Official Rulebook** 
