@@ -18,6 +18,9 @@ Remember, the tournament administration has the final say on all matters. Someti
 As a VRS-ranked event, Urban Riga Open #3 adheres to Valve’s rules for ranked tournaments, ensuring a fair structure for invites and qualifiers. The Valve Regional Standings (VRS) is the official ranking system used by Valve to gauge team performance and determine invitations for CS2 events. This rulebook outlines all regulations, format details, and expectations for teams participating in Urban Riga Open.
 Finally, our goal is to create an engaging and exciting event for participants, spectators, and partners.
 
+Best regards,
+Riga Open staff.
+
 ---
 
 ## Table of Contents
