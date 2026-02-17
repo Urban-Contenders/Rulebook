@@ -19,6 +19,7 @@ As a VRS-ranked event, Urban Riga Open #3 adheres to Valve’s rules for ranked 
 Finally, our goal is to create an engaging and exciting event for participants, spectators, and partners.
 
 Best regards,
+
 Riga Open staff.
 
 ---
@@ -35,20 +36,21 @@ Riga Open staff.
   - [1.7 Prize Pool](#17-prize-pool)
   - [1.8 Team Eligibility](#18-team-eligibility)
   - [1.9 Sign-up Process](#19-sign-up-process)
-  - [1.10 VRS Seeding](#110-vrs-seeding)
-    - [1.10.1 Reseeding](#1101-reseeding)
-  - [1.11 Match Times](#111-match-times)
-  - [1.12 Check-in](#112-check-in)
-  - [1.13 Operator](#113-operator)
-  - [1.14 Rule Changes](#114-rule-changes)
-  - [1.15 Personal Data](#115-personal-data)
-  - [1.16 The Game](#116-the-game)
-  - [1.17 Servers](#117-servers)
-  - [1.18 Tournament Schedule](#118-tournament-schedule)
-  - [1.19 Contact Persons](#119-contact-persons)
-  - [1.20 Broadcast Rights](#120-broadcast-rights)
-  - [1.21 Entry Fee](#121-entry-fee)
-  - [1.22 Refund Policy](#122-refund-policy)
+  - [1.10 Roster submission deadline](#110-roster-submission-deadline)
+  - [1.11 VRS Seeding](#111-vrs-seeding)
+    - [1.11.1 Reseeding](#1111-reseeding)
+  - [1.12 Match Times](#112-match-times)
+  - [1.13 Check-in](#113-check-in)
+  - [1.14 Operator](#114-operator)
+  - [1.15 Rule Changes](#115-rule-changes)
+  - [1.16 Personal Data](#116-personal-data)
+  - [1.17 The Game](#117-the-game)
+  - [1.18 Servers](#118-servers)
+  - [1.19 Tournament Schedule](#119-tournament-schedule)
+  - [1.20 Contact Persons](#120-contact-persons)
+  - [1.21 Broadcast Rights](#121-broadcast-rights)
+  - [1.22 Entry Fee](#122-entry-fee)
+  - [1.23 Refund Policy](#123-refund-policy)
 - [SECTION TWO - Player rules](#section-two--player-rules)
   - [2.1 Player Age](#21-player-age)
   - [2.2 Parental Consent](#22-parental-consent)
@@ -149,66 +151,75 @@ Open to all teams in the Global region, as defined by Valve’s official rules a
 ### 1.9 Sign-up Process
 Teams register via Google Form. Once that's filled, the organizer will contact the team with and request teams requisite and send an invoice. Once that's paid, team fee secures the spot. 
 
-### 1.10 VRS Seeding
+### 1.10 Roster submission deadline
+Teams must send in the final roster for the event 1 week prior _(March 16th, 2026, 00:00 EET)_ the start of the tournament.
+If any changes occur to the roster after the deadline - the core of 3 players must remain.
+Violations may result in walkovers.
+
+### 1.11 VRS Seeding
 In line with Valve’s guidelines for Tier 2 Open events, Urban Riga Open #3 will use VRS Global rankings to seed teams into Groups. 
 Seeding will be based on the official Global VRS ranking released on Monday, Mar 2nd 2026.
 The seeding for the “Urban Riga Open #3” Main Tournament will be determined using a hierarchical ranking system to ensure a competitive and fair placement of teams. The seeding methodology is as follows (16-team event example):
 
 __1. Primary Seeding:__ Global VRS ranking (as of Monday, Mar 2nd 2026)
+
 __2. Secondary Seeding:__ If no Global VRS ranking → HLTV ranking (Monday, Mar 2nd 2026)
+
 __3. Tertiary Seeding:__ If no HLTV ranking → average FACEIT Elo of the full team (as of Monday, Mar 2nd 2026)
 
 The final seeding list will be compiled on Monday, Mar 2nd 2026 incorporating all eligible teams according to the hierarchy above.
 Tournament administration reserves the right to make final decisions on all seeding matters to ensure the integrity of the competition.
 
-#### 1.10.1 Reseeding
-__a)__  If any dropouts occur more than 15 days _(before March 8th, 2026, 00:00 EET)_ before the event's start date, the tournament will be reseeded. If the dropout happens within 15 days ( of the tournament’s start, the replacement team will inherit the dropped team’s position in the tournament. However, they will be assigned the lowest available seed in that stage for the purposes of the map veto. All teams seeded below the dropped team will move up one spot in the seeding for the map veto.
+#### 1.11.1 Reseeding
+__a)__  If any dropouts occur more than 15 days _(before March 8th, 2026, 00:00 EET)_ before the event's start date, the tournament will be reseeded.
 
-__b)__ If a team withdraws up-to 7 days _(before March 16th, 2026, 00:00 EET)_ before the event start date, it will be replaced by the first available regional team (EE, LV, LT) from the waiting list.
+__b)__ If the dropout happens within 15 days _(later than March 8th, 2026, 00:00 EET)_ of the tournament’s start, the replacement team will inherit the dropped team’s position in the tournament. However, they will be assigned the lowest available seed in that stage for the purposes of the map veto. All teams seeded below the dropped team will move up one spot in the seeding for the map veto.
 
-__c)__ If a team withdraws 7 days or less _(Later than March 16th, 2026, 00:00 EET)_ before the event start date, and no replacement team is available, the organizer may award walkovers for the withdrawn team’s matches.
+__c)__ If a team withdraws up-to 7 days _(before March 16th, 2026, 00:00 EET)_ before the event start date, it will be replaced by the first available regional team (EE, LV, LT) from the waiting list.
 
-### 1.11 Match Times
+__d)__ If a team withdraws 7 days or less _(Later than March 16th, 2026, 00:00 EET)_ before the event start date, and no replacement team is available, the organizer may award walkovers for the withdrawn team’s matches.
+
+### 1.12 Match Times
 - Urban Riga Open #3 - see schedule [(LINK)](https://docs.google.com/spreadsheets/d/1lAo-wYJ9DW_7F5_6OMECoitaW5bGYhkU9Yq7RiG0TIw/edit?usp=sharing).
 
-### 1.12 Check-in
+### 1.13 Check-in
 Teams must check in at the venue 1 hour before their scheduled game (exact schedule to be provided by admins via  Discord, Email or WhatsApp once all teams are known). All team members should be on-site and ready at least one hour before their first match. Any team that fails to check in on time may be disqualified.
 
-### 1.13 Operator
+### 1.14 Operator
 ___Potion Agency SIA___
 __Reg.nr.:__ 40203488582
 __VAT nr.:__ LV40203488582
 __Legal Address:__ Rīga, Ādmiņu iela 8 - 55, LV-1009
 
-### 1.14 Rule Changes
+### 1.15 Rule Changes
 The operator reserves the right to change the rules without prior warning. In a case that is not covered by the written rules, the operator reserves the right to take measures to preserve the integrity and fair-play spirit of the competition.
 
-### 1.15 Personal Data
+### 1.16 Personal Data
 The administrator of personal data collected for the purposes of the tournament (i.e., data provided by participants for the purpose of participating in the tournament) is the operator. Participants can request to validate, edit or delete their data. To make such a request please contact us at [**urbancontenders@hotmail.com**](mailto:urbancontenders@hotmail.com) with an email titled "Personal Data Request”. Failure to provide or provision of false data may result in inability to participate in the tournament.  
 
-### 1.16 The Game
+### 1.17 The Game
 The game played in the tournament is Counter Strike 2 published by Valve Corporation.
 
-### 1.17 Servers
+### 1.18 Servers
 Local servers will be provided by the Urban Riga Open #3 however FACEIT (or DatHost) servers in Stockholm/Helsinki might be used as backup.
 
-### 1.18 Tournament Schedule
+### 1.19 Tournament Schedule
 The schedule of the tournament is specified in Appendix 1 to the rulebook.
 
-### 1.19 Contact Persons
+### 1.20 Contact Persons
 | Full legal name  | Role          | E-Mail                                                                                                   | Discord  |
 | --------------- |:--------------:| :-------------------------------------------------------------------------------------------------------:|---------:|
 | Sandis Rainskis | Main Organizer                |[rainskis.sandis@gmail.com](mailto:rainskis.sandis@gmail.com)                              |.sandis   |
 | Ēriks Siliņš    | Assistant Organizer           |[silinseriks1+urbancontenders@gmail.com](mailto:silinseriks1+urbancontenders@gmail.com)    |doikaoioi |
 | Madars Vagalis  | Head of Technical Dep. & Rules|[madars.vagalis+urbancontenders@gmail.com](mailto:madars.vagalis+urbancontenders@gmail.com)|mAa4a     |
 
-### 1.20 Broadcast Rights
+### 1.21 Broadcast Rights
 GOTV relays will be shared on the organizer’s Discord server per request.
 
-### 1.21 Entry Fee
+### 1.22 Entry Fee
 To participate in the tournament,, a team must complete the registration form available in Urban Contenders socials and pay the required entry-fee of 950 EUR (+VAT) for Urban Riga Open #3.
 
-### 1.22 Refund policy
+### 1.23 Refund policy
 The participation fee is non-refundable, except in the case that the tournament is cancelled due to insufficient teams (fewer than 8 registered and paid teams).
 
 If the event is cancelled under these circumstances, all paid participation fees will be fully refunded to the respective teams.
@@ -226,7 +237,7 @@ A participant in the games can be a person who is at least 14 years old on the d
 If the participant is a minor (<18 years old), they must have parental consent to participate in the tournament.
 
 ### 2.3 Player Nickname
-Each player must choose his own nickname, which he uses during the games. This name cannot be changed without the permission of the operator.
+Each player must choose his own nickname, which he uses during the games. This name must not include mentioning of any sponsors or language that is not approved by Tournament Officials. Nickname cannot be changed without the permission of the operator.
 
 ### 2.4 Entering Latvia
 Each player must be able to enter the Schengen territory and Latvia (with ID in case of EU residents, passport and visa if necessary in other cases).
@@ -246,7 +257,7 @@ The tournament will use Global VRS ranking, thus it does not restrict the team�
 A team may consist of 5 core players, 1 reserve player and 1 coach. The coach can be both a coach and a reserve player.
 
 ### 3.3 Team Name
-Each team must have its own name, which must be provided while registering for the tournament. This name cannot be changed without the permission of the operator.
+Each team must have its own name, which must be provided while registering for the tournament. The inclusion of sponsor names is not permitted unless explicity authorized by Tournament Officials. This name cannot be changed without the permission of the operator.
 
 ### 3.4 Team Captain
 Each team must have its captain, who must be indicated during team registration.
