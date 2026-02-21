@@ -153,7 +153,7 @@ The prize pool is crowdfunded by team entries. It scales with the number of team
 ##### <ins>Total prize pool: $10,000</ins>
 
 ### 1.8 Team Eligibility
-Open to all teams in the Global region, as defined by Valve’s official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid CS2 accounts in good standing (no VAC bans in the last 2 years). 
+Open to all teams in the Global region, as defined by Valve’s official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid CS2 accounts in good standing (no VAC bans in the last 2 years).
 
 ### 1.9 Sign-up Process
 Teams register via Google Form. Once thats filled, organizer will contact the team with and request teams requisite and send an invoice. Once thats paid, team fee secures the spot.
