@@ -308,11 +308,11 @@ The map pool will follow the official Active Duty Map pool as defined by Valve, 
 - Break during half time in overtimes: disabled
 
 ### 4.5 Group Stage
-- __(If 8 teams)__
+- __If 8 teams__
   - 2 GSL Groups (BO3)
-- __(If 9-12 teams)__
+- __If 9-12 teams__
   - 2 Round-Robin Groups (BO1)
-- __(If 13-16 teams)__
+- __If 13-16 teams__
   - 4 GSL Groups (BO1 opener, BO3 rest)
 
 ### 4.6 Playoffs
