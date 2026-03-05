@@ -69,7 +69,11 @@ Riga Open staff.
   - [4.3 Map Pool Changes](#43-map-pool-changes)
   - [4.4 Match Settings](#44-match-settings)
   - [4.5 Group Stage](#45-group-stage)
+    - [4.5.1 Group Stage Seeding](#451-group-stage-seeding)
+    - [4.5.2 Group Stage Scoring System](#452-group-stage-scoring-system)
+    - [4.5.3 Tie Breakers](#453-tie-breakers)
   - [4.6 Playoffs](#46-playoffs)
+    - [4.6.1 Playoff Bracket](#461-playoff-bracket)
   - [4.7 Tactical Pauses](#47-tactical-pauses)
   - [4.8 Technical Pauses](#48-technical-pauses)
   - [4.9 Agent Skins](#49-agent-skins)
@@ -303,8 +307,45 @@ The map pool will follow the official Active Duty Map pool as defined by Valve, 
 ### 4.5 Group Stage
 Round Robin, BO1 (Four groups of four teams in each)
 
+#### 4.5.1 Group Stage Seeding
+Groups are determined using the ["snake seeding"](https://liquipedia.net/tft/Snake_Seeding_System) system:
+Group A | Group B | Group C | Group D
+|:-----:|:-------:|:-------:|:-------:|
+Seed #1 |Seed #2  |Seed #3  |Seed #4  |
+Seed #8 |Seed #7  |Seed #6  |Seed #5  |
+Seed #9 |Seed #10 |Seed #11 |Seed #12 |
+Seed #16|Seed #15 |Seed #14 |Seed #13 |
+
+
+#### 4.5.2 Group Stage Scoring System
+
+Teams are awarded with points after the match:
+
+- 3 points – Win in regulation time
+- 2 points – Win in overtime
+- 1 point – Loss in overtime
+- 0 points – Loss in regulation time
+
+#### 4.5.3 Tie Breakers
+
+If two or more teams are tied in total points at the end of the group stage, the following criteria will be applied in order:
+
+1. Head-to-head result
+2. Round difference
+3. Fewer total round losses
+4. Higher initial seed
+
 ### 4.6 Playoffs
 Single elimination, BO3
+
+#### 4.6.1 Playoff Bracket
+Place in bracket is assigned by the results of the group stage.
+```
+Group A Winner VS Group D Runner Up
+Group B Winner VS Group C Runner Up
+Group C Winner VS Group B Runner Up
+Group D Winner VS Group A Runner Up
+```
 
 ### 4.7 Tactical Pauses
 A team can use the pause option in the game menu (ESC -> Call Vote -> Call Tactical Timeout) to order a tactical pause. During regulation game time, each team has 3 tactical pauses, each lasting 30 seconds. During overtime, each team has only 1 tactical pause of 30 seconds each for each overtime period.
@@ -322,6 +363,9 @@ A team’s seeding during map veto is determined in the following order of prior
 - __FACEIT ELO –__ the average ELO rating of the team's core players on FACEIT, used only if both VRS and HLTV rankings are unavailable.
 
 A team with the VRS ranking will always be seeded higher than a team whose seeding is based on either the HLTV ranking or FACEIT ELO. Likewise, a team with the HLTV ranking will always be seeded higher than a team whose seeding is based only on FACEIT ELO.
+
+#### 4.10.1 Group Stage seeding
+
 
 ### 4.11 BO1 Veto
 Map selection is determined by the ban method for Best of 1 (BO1) matches The team with the highest seed decides who initiates the ban process. Example of BO1 veto:

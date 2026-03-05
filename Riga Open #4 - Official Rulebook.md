@@ -69,7 +69,9 @@ Riga Open staff.
   - [4.3 Map Pool Changes](#43-map-pool-changes)
   - [4.4 Match Settings](#44-match-settings)
   - [4.5 Group Stage](#45-group-stage)
+    - [4.5.1 Group Stage Seeding](#451-group-stage-seeding)
   - [4.6 Playoffs](#46-playoffs)
+    - [4.6.1 Playoff Bracket](#461-playoff-bracket)
   - [4.7 Tactical Pauses](#47-tactical-pauses)
   - [4.8 Technical Pauses](#48-technical-pauses)
   - [4.9 Agent Skins](#49-agent-skins)
@@ -315,8 +317,26 @@ The map pool will follow the official Active Duty Map pool as defined by Valve, 
 - __If 13-16 teams__
   - 4 GSL Groups (BO1 opener, BO3 rest)
 
+#### 4.5.1 Group Stage Seeding
+Groups are determined using the ["snake seeding"](https://liquipedia.net/tft/Snake_Seeding_System) system:
+Group A | Group B | Group C | Group D
+|:-----:|:-------:|:-------:|:-------:|
+Seed #1 |Seed #2  |Seed #3  |Seed #4  |
+Seed #8 |Seed #7  |Seed #6  |Seed #5  |
+Seed #9 |Seed #10 |Seed #11 |Seed #12 |
+Seed #16|Seed #15 |Seed #14 |Seed #13 |
+
 ### 4.6 Playoffs
 Single elimination, BO3
+
+#### 4.6.1 Playoff Bracket
+Place in bracket is assigned by the results of the group stage.
+```
+Group A Winner VS Group D Runner Up
+Group B Winner VS Group C Runner Up
+Group C Winner VS Group B Runner Up
+Group D Winner VS Group A Runner Up
+```
 
 ### 4.7 Tactical Pauses
 A team can use the pause option in the game menu (ESC -> Call Vote -> Call Tactical Timeout) to order a tactical pause. During regulation game time, each team has 3 tactical pauses, each lasting 30 seconds. During overtime, each team has only 1 tactical pause of 30 seconds each for each overtime period.
