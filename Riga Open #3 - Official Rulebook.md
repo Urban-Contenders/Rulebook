@@ -419,14 +419,7 @@ This does not confirm with 100% certainty that the event is "Ranked" and relies 
 ``
 
 ### 4.17 Playoff Seeding
-See 4.5 and 4.6. 
-
-The playoff seeding example applies to an 8-team playoff, which is made possible by four groups.
-
-- A1 plays against C2
-- B2 plays against D1
-- A2 plays against C1
-- B1 plays against D2
+See 4.5 and 4.6.
 
 
 ### 4.18 Media Obligations
