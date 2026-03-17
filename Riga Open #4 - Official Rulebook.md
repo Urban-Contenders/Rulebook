@@ -411,10 +411,10 @@ See 4.5 and 4.6.
 
 The playoff seeding example applies to an 8-team playoff, which is made possible by four groups.
 
-- A1 plays against C2
-- B2 plays against D1
-- A2 plays against C1
-- B1 plays against D2
+- A1 plays against D2
+- B1 plays against C2
+- C1 plays against B2
+- D1 plays against A2
 
 Any changes resulting from a different number of group stage teams will be communicated by the organizer before the tournament begins.
 
