@@ -62,16 +62,14 @@ Urban Riga Open #6
 Tier 2 VRS-ranked event.
 
 ### 1.3 Dates
-**April 3rd - April 5th, 2026** (three days: Friday, Saturday & Sunday)
+**July 27th - July 28th, 2026** (two days: Monday & Tuesday)
 
 ### 1.4 Location
-Rīga, Latvia (LAN)  
-AFK e-sporta klubs  
-Lielirbes iela 27, LV-1046
+To be Announced
 
 ### 1.5 Team Cap
-- Maximum: 16 teams  
-- Minimum: 8 teams  
+- Maximum: 8 teams  
+- Minimum: 6 teams  
 - Teams consist of 5 players + (optionally) 1 coach  
 - All participants must be able attend on-site
 
@@ -79,7 +77,7 @@ Lielirbes iela 27, LV-1046
 Teams must register via Google Form, then wait for an invoice from Urban Riga Staff, then pay the registration fee per team (covers 5 players + 1 coach). It will be sent as an invoice and is required to be paid in 48 hours to confirm entry (2 business days). Registration is first-come, first-served.
 
 ### 1.22 Entry Fee
-To participate in the tournament,, a team must complete the registration form available in Urban Contenders socials and pay the required entry-fee of 1900 EUR (+VAT) for Urban Riga Open #5.
+To participate in the tournament, a team must complete the registration form available in Urban Contenders socials and pay the required entry-fee of 950 EUR (+VAT) for Urban Riga Open #6.
 
 ### 1.8 Team Eligibility
 Open to all teams in the Global region, as defined by Valve’s official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid CS2 accounts in good standing (no VAC bans in the last 2 years).
@@ -103,26 +101,12 @@ Seeding will be based on the official Global VRS ranking released on Monday, Mar
 The prize pool is crowdfunded by team entries. It scales with the number of teams:
 
 #### 1.7.1 Prize Distribution
-##### Urban Riga Open #4 (If 16 teams)
-- 1st: $10,000  
-- 2nd: $6,000  
-- 3rd–4th: $2,000
+##### Urban Riga Open #5
+- 1st: $3,000  
+- 2nd: $1,500  
+- 3rd: $500
 
-###### <ins>Total prize pool: $20,000</ins>
-
-##### Urban Riga Open #4 (If 12–15 teams)
-- 1st: $7,500  
-- 2nd: $4,500  
-- 3rd–4th: $1,500
-
-###### <ins>Total prize pool: $15,000</ins>
-
-##### Urban Riga Open #4 (If 8–11 teams)
-- 1st: $5,000  
-- 2nd: $3,000  
-- 3rd–4th: $1,000
-
-###### <ins>Total prize pool: $10,000</ins>
+###### <ins>Total prize pool: $5,000</ins>
 
 #### 1.7.2 Prize Payout
 Prizes will be paid within 90 days from the end of the tournament to the bank account designated by the team, based on a correctly issued invoice or relevant payment document. 
@@ -137,21 +121,16 @@ If the team fails to provide the required information within 1 year of the tourn
 
 ## SECTION FOUR – Game Rules
 ### 4.5 Group Stage
-- __If 8 teams__
-  - 2 GSL Groups (BO3)
-- __If 9-12 teams__
-  - 2 Round-Robin Groups (BO1)
-- __If 13-16 teams__
-  - 4 GSL Groups (BO1 opener, BO3 rest)
+- 2 Groups of Round Robin
 
 #### 4.5.1 Group Stage Seeding
 Groups are determined using the ["snake seeding"](https://liquipedia.net/tft/Snake_Seeding_System) system:
-Group A | Group B | Group C | Group D
-|:-----:|:-------:|:-------:|:-------:|
-Seed #1 |Seed #2  |Seed #3  |Seed #4  |
-Seed #8 |Seed #7  |Seed #6  |Seed #5  |
-Seed #9 |Seed #10 |Seed #11 |Seed #12 |
-Seed #16|Seed #15 |Seed #14 |Seed #13 |
+Group A | Group B
+|:-----:|:-------:|
+Seed #1 |Seed #2  |
+Seed #4 |Seed #3  |
+Seed #5 |Seed #6 |
+Seed #8|Seed #7 |
 
 ### 4.6 Playoffs
 Single elimination, BO3
@@ -159,21 +138,22 @@ Single elimination, BO3
 #### 4.6.1 Playoff Bracket
 Place in bracket is assigned by the results of the group stage.
 ```
-Group A Winner VS Group D Runner Up
-Group B Winner VS Group C Runner Up
-Group C Winner VS Group B Runner Up
-Group D Winner VS Group A Runner Up
+Group A Winner VS Group B Runner Up
+Group B Winner VS Group A Runner Up
 ```
 
 ### 4.17 Playoff Seeding
 See 4.5 and 4.6. 
 
-The playoff seeding example applies to an 8-team playoff, which is made possible by four groups.
+The playoff seeding example applies to an 6-team playoff, which is made possible by two groups.
 
-- A1 plays against D2
-- B1 plays against C2
-- C1 plays against B2
-- D1 plays against A2
+#### Quaterfinals
+- A2 plays against B3
+- B2 plays against A3
+
+#### SemiFinals
+- A1 plays against B2 VS A3 winner
+- B1 plays against A2 VS B3 winner
 
 Any changes resulting from a different number of group stage teams will be communicated by the organizer before the tournament begins.
 
