@@ -143,17 +143,11 @@ Seed #8|Seed #7 |
 ### 4.6 Playoffs
 Single elimination, BO3
 
-#### 4.6.1 Playoff Bracket
-Place in bracket is assigned by the results of the group stage.
-```
-Group A Winner VS Group B Runner Up
-Group B Winner VS Group A Runner Up
-```
 
-### 4.17 Playoff Seeding
+### 4.7 Playoff Seeding
 See 4.5 and 4.6. 
 
-The playoff seeding example applies to an 6-team playoff, which is made possible by two groups.
+The playoff seeding example applies to an 6-team playoff, which is made possible by two groups. Place in bracket is assigned by the results of the group stage.
 
 #### Quaterfinals
 - A2 plays against B3
