@@ -128,7 +128,7 @@ If the team fails to provide the required information within 1 year of the tourn
 
 ## SECTION FOUR – Game Rules
 ### 4.5 Group Stage
-- 2 Groups of Round Robin
+- 2 Groups of Round Robin (BO1)
 
 #### 4.5.1 Group Stage Seeding
 Groups are determined using the ["snake seeding"](https://liquipedia.net/tft/Snake_Seeding_System) system:
