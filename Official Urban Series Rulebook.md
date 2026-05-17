@@ -133,9 +133,10 @@ The schedule of the tournament is specified in [Appendix 1](#appendix-i--season-
 ### 1.13 Contact Persons
 | Full legal name  | Role          | E-Mail                                                                                                   | Discord  |
 | --------------- |:--------------:| :-------------------------------------------------------------------------------------------------------:|---------:|
-| Sandis Rainskis | Main Organizer                |[rainskis.sandis@gmail.com](mailto:rainskis.sandis@gmail.com)                              |.sandis   |
-| Ēriks Siliņš    | Assistant Organizer           |[silinseriks1+urbancontenders@gmail.com](mailto:silinseriks1+urbancontenders@gmail.com)    |doikaoioi |
-| Madars Vagalis  | Head of Technical Dep. & Rules|[madars.vagalis+urbancontenders@gmail.com](mailto:madars.vagalis+urbancontenders@gmail.com)|mAa4a     |
+| Sandis Rainskis | Main Organizer                                        |[rainskis.sandis@gmail.com](mailto:rainskis.sandis@gmail.com)                              |.sandis   |
+| Ēriks Siliņš    | Head of Production                                    |[silinseriks1+urbancontenders@gmail.com](mailto:silinseriks1+urbancontenders@gmail.com)    |doikaoioi |
+| Madars Vagalis  | Head of Technical Dep. & Rules                        |[madars.vagalis+urbancontenders@gmail.com](mailto:madars.vagalis+urbancontenders@gmail.com)|mAa4a     |
+| Madars Vagalis  | Production Assistant & Experience Manager             |[rodionsvelesovs@gmail.com](mailto:rodionsvelesovs@gmail.com)                              |lowskill  |
 
 ### 1.14 Broadcast Rights
 GOTV relays will be shared on the organizer’s Discord server per request.
