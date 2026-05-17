@@ -93,7 +93,6 @@ __2. Secondary Seeding:__ If no Global VRS ranking → HLTV ranking ([Appendix 1
 
 __3. Tertiary Seeding:__ If no HLTV ranking → average FACEIT Elo of the full team ([Appendix 1](#appendix-i--season-specific-information))
 
-The final seeding list will be compiled on Monday, Mar 2nd 2026 incorporating all eligible teams according to the hierarchy above.
 Tournament administration reserves the right to make final decisions on all seeding matters to ensure the integrity of the competition.
 
 #### 1.5.1 Reseeding
