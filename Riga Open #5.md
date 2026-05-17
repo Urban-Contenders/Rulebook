@@ -95,20 +95,26 @@ If the event is cancelled under these circumstances, all paid participation fees
 No refunds will be issued for withdrawals, no-shows, or inability to participate for reasons not caused by the tournament operator.
 
 ### 1.11 VRS Seeding
-In line with Valve’s guidelines for Tier 2 Open events, Urban Riga Open #4 will use VRS Global rankings to seed teams into Groups. 
-Seeding will be based on the official Global VRS ranking released on Monday, Mar 2nd 2026.
+In line with Valve’s guidelines for Tier 2 Open events, Urban Riga Open #5 will use VRS Global rankings to seed teams into Groups. 
+Seeding will be based on the official Global VRS ranking released on Monday, June 1st 2026.
 
 ### 1.7 Prize Pool
 
 The prize pool is crowdfunded by team entries. It scales with the number of teams:
 
 #### 1.7.1 Prize Distribution
-##### Urban Riga Open #5
+##### Urban Riga Open #5 (If 8 teams)
 - 1st: $3,000  
 - 2nd: $1,500  
 - 3rd: $500
-
 ###### <ins>Total prize pool: $5,000</ins>
+
+
+- ##### Urban Riga Open #5 (If 6-7 teams)
+- 1st: $2,500  
+- 2nd: $1,000  
+- 3rd: $500
+###### <ins>Total prize pool: $4,000</ins>
 
 #### 1.7.2 Prize Payout
 Prizes will be paid within 90 days from the end of the tournament to the bank account designated by the team, based on a correctly issued invoice or relevant payment document. 
@@ -117,13 +123,13 @@ If the team fails to provide the required information within 1 year of the tourn
 ---
 
 ### 1.12 Match Times
-- Urban Riga Open #4 - see schedule [(LINK)](https://docs.google.com/spreadsheets/d/1FYTdazU2taK_IRiw-3cRXSFMV_LgcK6eNHBxAoAb4sw/edit?usp=sharing).
+- Urban Riga Open #5 - see schedule [(LINK)](https://docs.google.com/spreadsheets/d/1FYTdazU2taK_IRiw-3cRXSFMV_LgcK6eNHBxAoAb4sw/edit?usp=sharing).
 
 ---
 
 ## SECTION FOUR – Game Rules
 ### 4.5 Group Stage
-- 2 Groups of Round Robin
+- 2 Groups of Round Robin (BO1)
 
 #### 4.5.1 Group Stage Seeding
 Groups are determined using the ["snake seeding"](https://liquipedia.net/tft/Snake_Seeding_System) system:
