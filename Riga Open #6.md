@@ -142,12 +142,11 @@ Seed #8|Seed #7 |
 ### 4.6 Playoffs
 Single elimination, BO3, consists of 6 teams. 1st place of both groups start playoffs in Semi-finals.
 
-```
 
 ### 4.7 Playoff Seeding
 See 4.5 and 4.6. 
 
-The playoff seeding example applies to an 6-team playoff, which is made possible by two groups.
+The playoff seeding example applies to an 6-team playoff, which is made possible by two groups. Place in bracket is assigned by the results of the group stage.
 
 #### Quaterfinals
 - A2 plays against B3
