@@ -93,20 +93,27 @@ If the event is cancelled under these circumstances, all paid participation fees
 No refunds will be issued for withdrawals, no-shows, or inability to participate for reasons not caused by the tournament operator.
 
 ### 1.11 VRS Seeding
-In line with Valve’s guidelines for Tier 2 Open events, Urban Riga Open #4 will use VRS Global rankings to seed teams into Groups. 
-Seeding will be based on the official Global VRS ranking released on Monday, Mar 2nd 2026.
+In line with Valve’s guidelines for Tier 2 Open events, Urban Riga Open #5 will use VRS Global rankings to seed teams into Groups. 
+Seeding will be based on the official Global VRS ranking released on Monday, Jul 6th 2026.
 
 ### 1.7 Prize Pool
 
 The prize pool is crowdfunded by team entries. It scales with the number of teams:
 
 #### 1.7.1 Prize Distribution
-##### Urban Riga Open #5
+##### Urban Riga Open #6 (8x team example)
 - 1st: $3,000  
 - 2nd: $1,500  
 - 3rd: $500
 
 ###### <ins>Total prize pool: $5,000</ins>
+
+##### Urban Riga Open #6 (6-7x team example)
+- 1st: $2,500  
+- 2nd: $1,000  
+- 3rd: $500
+
+###### <ins>Total prize pool: $4,000</ins>
 
 #### 1.7.2 Prize Payout
 Prizes will be paid within 90 days from the end of the tournament to the bank account designated by the team, based on a correctly issued invoice or relevant payment document. 
@@ -115,7 +122,7 @@ If the team fails to provide the required information within 1 year of the tourn
 ---
 
 ### 1.12 Match Times
-- Urban Riga Open #4 - see schedule [(LINK)](https://docs.google.com/spreadsheets/d/1FYTdazU2taK_IRiw-3cRXSFMV_LgcK6eNHBxAoAb4sw/edit?usp=sharing).
+- Urban Riga Open #6 - see schedule [(LINK)](https://docs.google.com/spreadsheets/d/1FYTdazU2taK_IRiw-3cRXSFMV_LgcK6eNHBxAoAb4sw/edit?usp=sharing).
 
 ---
 
@@ -133,16 +140,11 @@ Seed #5 |Seed #6 |
 Seed #8|Seed #7 |
 
 ### 4.6 Playoffs
-Single elimination, BO3
+Single elimination, BO3, consists of 6 teams. 1st place of both groups start playoffs in Semi-finals.
 
-#### 4.6.1 Playoff Bracket
-Place in bracket is assigned by the results of the group stage.
-```
-Group A Winner VS Group B Runner Up
-Group B Winner VS Group A Runner Up
 ```
 
-### 4.17 Playoff Seeding
+### 4.7 Playoff Seeding
 See 4.5 and 4.6. 
 
 The playoff seeding example applies to an 6-team playoff, which is made possible by two groups.
