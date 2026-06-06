@@ -78,7 +78,7 @@ Open to all teams in the Global region, as defined by Valve’s official rules a
 Teams register via Google Form. Once thats filled, organizer will contact the team with and request teams requisite and send an invoice. Once thats paid, team fee secures the spot.
 
 ### 1.4 Roster submission deadline
-Teams must send in the final roster for the event 1 week prior the start of the tournament.
+Teams must send in the final roster for the event two weeks prior the start of the tournament.
 If any changes occur to the roster after the deadline - the core of 3 players must remain.
 Violations may result in walkovers.
 
