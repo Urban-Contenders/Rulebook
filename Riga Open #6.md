@@ -45,6 +45,7 @@ Riga Open staff.
 - [SECTION FOUR - Game rules](#section-four--game-rules)
   - [4.5 Group Stage](#45-group-stage)
     - [4.5.1 Group Stage Seeding](#451-group-stage-seeding)
+    - [4.5.2 Group Stage Point System](#452-group-stage-point-system)
   - [4.6 Playoffs](#46-playoffs)
     - [4.6.1 Playoff Bracket](#461-playoff-bracket)
   - [4.17 Playoff Seeding](#417-playoff-seeding)
@@ -138,6 +139,15 @@ Seed #1 |Seed #2  |
 Seed #4 |Seed #3  |
 Seed #5 |Seed #6 |
 Seed #8|Seed #7 |
+
+#### 4.5.2 Group Stage Point System
+Teams will be awarded points by their performance in match:
+Result | Points Given
+|:-----:|:-------:|
+Regulation Win |3 point |
+Win in Overtime |2 point |
+Loss in Overtime |1 point |
+Regulation Loss |0 point |
 
 ### 4.6 Playoffs
 Single elimination, BO3, consists of 6 teams. 1st place of both groups start playoffs in Semi-finals.
