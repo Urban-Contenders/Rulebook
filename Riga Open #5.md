@@ -46,6 +46,7 @@ Riga Open staff.
   - [4.5 Group Stage](#45-group-stage)
     - [4.5.1 Group Stage Seeding](#451-group-stage-seeding)
     - [4.5.2 Group Stage Point System](#452-group-stage-point-system)
+    - [4.5.3 Tiebreakers](#453-tiebreakers)
   - [4.6 Playoffs](#46-playoffs)
     - [4.6.1 Playoff Bracket](#461-playoff-bracket)
   - [4.17 Playoff Seeding](#417-playoff-seeding)
@@ -149,6 +150,12 @@ Regulation Win |3 point |
 Win in Overtime |2 point |
 Loss in Overtime |1 point |
 Regulation Loss |0 point |
+
+#### 4.5.3 Tiebreakers
+1. Head-to-head result
+2. Round Difference
+3. Fewer total round losses
+4. Higher initial Group Stage Seed
 
 ### 4.6 Playoffs
 Single elimination, BO3
